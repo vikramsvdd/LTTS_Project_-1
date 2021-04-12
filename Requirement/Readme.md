@@ -16,7 +16,7 @@ Some of the features present in this game are:
 * To check who wins the game
 
 ## SWOT ANALYSIS
-![SWOT ANALYSIS]
+![SWOT ANALYSIS](https://github.com/vikramsvdd/MiniProject_TicTacToeGamehub/blob/main/Requirement/SWOT1.png)
 
 # 4W&#39;s and 1&#39;H
 
