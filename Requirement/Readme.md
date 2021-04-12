@@ -5,7 +5,7 @@
 * Tic Tac Toe is a two player game, played on a 3x3 grid. Each player gets a chance to place a mark in any position in the grid using any of the two symbols( X or 0 ). The player who has first formed a horizontal, vertical or diagonal sequence of three symbols emerges victorious.
 
 ## Defining Our System
-![Defining Our System]
+![Defining Our System](https://github.com/vikramsvdd/MiniProject_TicTacToeGamehub/blob/main/Requirement/tictactoe.jpg)
 * The game is to be played between two users by taking turns
 One of the player chooses ‘O’ and the other ‘X’ to mark their respective cells.
 The game starts with one of the players and the game ends when one of the players has one whole row/ column/ diagonal filled with his/her respective character (‘O’ or ‘X’).
