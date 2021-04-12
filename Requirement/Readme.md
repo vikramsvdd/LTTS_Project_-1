@@ -39,7 +39,7 @@ Some of the features present in this game are:
 ## High Level Requirements: 
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
-| HR01 | User can choose the position to place their symbol| Implemented | 
+| HR01 | User can choose the position to place their symbol| Technical |Implemented| 
 | HR02 | User shall be able to change the level of difficulty| Techincal | Future|
 | HR03 | User shall be able to play against the computer | Techincal | Future |
 
