@@ -22,7 +22,8 @@
 #include <conio.h>
 #include <stdlib.h>
 #include<windows.h>
-				
+
+extern char square[10];
 /**
  * @brief Character array to create the tictactoe grid
  * 
@@ -41,6 +42,7 @@ int checkWin();
  * 
  */
 void drawBoard();
+
 
 #endif
 
