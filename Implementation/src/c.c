@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include "a.h"
+#include "main.h"
 
 void drawBoard(){
 	system("cls");
