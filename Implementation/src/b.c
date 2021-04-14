@@ -1,6 +1,6 @@
 #include<stdio.h>
 //square[10]= {'o','1','2','3','4','5','6','7','8','9'};
-#include "a.h"
+#include "main.h"
 int checkWin(){
 	if(square[1] == square[2] && square[2] == square[3])
 		return 1;
