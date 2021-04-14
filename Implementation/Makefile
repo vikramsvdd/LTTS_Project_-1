@@ -1,5 +1,5 @@
-main: main.o #b.o c.o
-	gcc main.o -o main -l 
+main: main.o                                    
+	gcc main.o -o main -l m
 
 
 main.o: main.c
