@@ -19,4 +19,4 @@ jobs:
     - name: make
       run: make 
     - name: valgrind
-      run: valgrind main.c
+      run: valgrind main
