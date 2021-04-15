@@ -27,13 +27,13 @@ Some of the features present in this game are:
 * The tic tac toe game aims to improve the user's quick and strategic decision making skills, by helping them think of the optimal solution for victory
 
 ## When:
-* 
+* When you feel the necessity to sharpen your stratergic skills.
 
 ## Where:
 * This game can be played anywhere and is supported by most of the platforms without the use of internet.
 
 ## How:
-*
+*  This is a two player game, take turns in making your move and enjoy!
 
 # Detail requirements
 ## High Level Requirements: 
