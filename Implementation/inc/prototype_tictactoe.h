@@ -19,9 +19,8 @@
 
 
 #include <stdio.h>
-#include <conio.h>
 #include <stdlib.h>
-#include<windows.h>
+
 
 extern char square[10];
 /**
