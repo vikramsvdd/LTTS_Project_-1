@@ -1,8 +1,8 @@
 
 #include <stdio.h>
-#include <conio.h>
+//#include <conio.h>
 #include <stdlib.h>
-#include<windows.h>
+//#include<windows.h>
 				
 			
 
@@ -48,7 +48,7 @@ int main(){
 			else {
 				printf("Invalid option !");
 				player--;
-				getch();
+			//	getch();
 			}
 			i = checkWin();
 			player++;	
@@ -63,7 +63,7 @@ int main(){
 	else {
 		printf("==>Game draw");
 	}
-		getch();
+		//getch();
 		return 0;
 }
 
