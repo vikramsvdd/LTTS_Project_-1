@@ -16,7 +16,7 @@ Folder             | Description
 
 SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-266453` | Vikram Vasudevan  | F_01, F_02, F_03 |     | 6  | 6 |     
+266453` | Vikram Vasudevan  | F_01, F_02, F_03 |     |  | 6 |  6   
 
 | Feature Id | Feature |
 | -----------|---------|
