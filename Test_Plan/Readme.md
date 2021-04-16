@@ -17,5 +17,5 @@
 | **Test ID** | **HLT ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|-----|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |  L_01|H_02|The game starts and the players have to interact with console to place their response| player's choice choice for the placing mark on given position| Qualified to Play| SUCCESS |Requirement based |
-|  L_02|H_03|.|Game ends in win situation|shows the player coalesced with number who has own |SUCCESS|Requirement based|
-|  L_02_01 |H_03|Game ends in drawsituation| Displays that the Game has been drawn | SUCCESS |Requirement based|
+|  L_02|H_03|Game ends in win situation|shows the player coalesced with number who has own |SUCCESS|Requirement based|
+|  L_02_01 |H_03|Game ends in draw situation| Displays that the Game has been drawn | SUCCESS |Requirement based|
