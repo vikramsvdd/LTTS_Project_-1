@@ -1,15 +1,21 @@
-## High Level Requirements: 
-| TestID | Description | Exp I/P  | Exp O/P| Actual Out | Type Of Test |
-| ----- | ----- | ------- | ---------|| --------| ------ | 
-| HR01 | User can choose the position to place their symbol| Technical |Implemented| | |
-| HR02 | User shall be able to change the level of difficulty| Techincal | Future| | |
-| HR03 | User shall be able to play against the computer | Techincal | Future | | |
+# TEST PLAN:
 
-##  Low level Requirements:
- 
-| ID | Description | Exp I/P | Exp O/P| Actual Out | Type Of Test |
-| ------ | --------- | ------ | ----- || --------| ------ | 
-| LR01 | User is expected to choose a position and enter the number that indicates that position in the grid in order to place their respective symbol.  | HR01 | Implemented | | |
-| LR02 | The user is allowed to choose the level of difficulty which varies from easy to medium to hard. | HR02 | Future | | |
-| LR03 | The user can also choose to play with computer apart from playing with another user.  | HR03 | Future| | |
+## Table no: High level test plan
 
+| **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
+|-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
+|  H_01|Display of Menu| None | "Menu(1).Tic Tac Toe(2).player 1 (X) player 2 (O)(3)board(4)player 1 or 2(alternate fashion)Enter the choice | PASS | Scenario|
+|  H_02|Initiation of the game |"1.The assigned player must first choose the position to place his symbol 2. Board gets updated and player 2 follows the same " | Questions|PASS|Requirement based |
+|  H_03|Show Board | 1.Updates the marks on the board| 2.Displays the player appended with number who has own |SUCCESS|Requirement based |
+| H_03_01| Draw| (1).Checking if the game draws | 2.Displays that the Game has been drawn | SUCCESS | Requirement based |
+| H_04| Check if irrelevant positions are eliminated (other than 1 to 9) | 1.Say enter "ss" | 2.Displays Invalid option |SUCCESS| Scenario |
+
+
+
+## Table no: Low level test plan
+
+| **Test ID** | **HLT ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
+|-------------|-----|--------------------------------------------------------------|------------|-------------|----------------|------------------|
+|  L_01|H_02|The game starts and the players have to interact with console to place their response| player's choice choice for the placing mark on given position| Qualified to Play| SUCCESS |Requirement based |
+|  L_02|H_03|.|Game ends in win situation|shows the player coalesced with number who has own |SUCCESS|Requirement based|
+|  L_02_01 |H_03|Game ends in drawsituation| Displays that the Game has been drawn | SUCCESS |Requirement based|
