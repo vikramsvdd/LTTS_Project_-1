@@ -1,4 +1,4 @@
-# MiniProject_TicTacToeGamehub
+# MiniProject_1ltts
 # SDLC Activity Based Learning
 Build | Code Quality | Unity | Git Inspector
 |---------|------------|-----------|----------------
